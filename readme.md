@@ -1,1 +1,1 @@
-Optimized settings for gaming performance on the RX580.
+Optimized performance settings for gaming on the RX580.
